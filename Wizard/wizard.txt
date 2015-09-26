@@ -1,5 +1,5 @@
 
-name="WizardName"
+name="Techboyz Wizard"
 url="https://copy.com/Kqg3Su19efpTF2Ux/Kodi.zip?download=1"
 img="https://raw.githubusercontent.com/techboyz/techboyz-master-repo/master/Wizard/pic.jpg"
 fanart="https://raw.githubusercontent.com/techboyz/techboyz-master-repo/master/Wizard/pic.jpg"
