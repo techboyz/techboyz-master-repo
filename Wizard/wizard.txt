@@ -1,8 +1,6 @@
 
 name="WizardName"
-url="https://copy.com/vPJVfIg4UWz6a7GJ/0.6hushamaddons.zip?download=1"
-img="https://raw.githubusercontent.com/hmemar/husham.com/master/images/hushamme.jpg"
-fanart="https://raw.githubusercontent.com/hmemar/husham.com/master/images/hushamme.jpg"
-description="My new Wizard with help from Husham"
-
-
+url="https://copy.com/Kqg3Su19efpTF2Ux/Kodi.zip?download=1"
+img="https://raw.githubusercontent.com/techboyz/techboyz-master-repo/master/Wizard/pic.jpg"
+fanart="https://raw.githubusercontent.com/techboyz/techboyz-master-repo/master/Wizard/pic.jpg"
+description="Techboyz Wizard"
