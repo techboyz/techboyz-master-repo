@@ -1,12 +1,6 @@
 
 name="Techboyz Wizard"
-url="https://copy.com/Kqg3Su19efpTF2Ux/Kodi.zip?download=1"
-img="https://raw.githubusercontent.com/techboyz/techboyz-master-repo/master/Wizard/pic.jpg"
-fanart="https://raw.githubusercontent.com/techboyz/techboyz-master-repo/master/Wizard/pic.jpg"
-description="Techboyz Wizard"
-
-name="Techboyz Wizard"
-url="https://volafile.io/get/x3-kPsA5Og_RE/Kodi.zip"
+url="https://volafile.io/get/D_hWP7Y5Og-cJ/kodi.zip"
 img="https://raw.githubusercontent.com/techboyz/techboyz-master-repo/master/Wizard/pic.jpg"
 fanart="https://raw.githubusercontent.com/techboyz/techboyz-master-repo/master/Wizard/pic.jpg"
 description="Techboyz Wizard"
