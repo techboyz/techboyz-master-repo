@@ -1,6 +1,6 @@
 
 name="Techboyz Wizard"
-url="https://volafile.io/get/8PZqP7Y5Og-FJ/Kodi4.zip"
+url="https://volafile.io/get/G0u5PsA5Og8IJ/kodi5.zip"
 img="https://raw.githubusercontent.com/techboyz/techboyz-master-repo/master/Wizard/pic.jpg"
 fanart="https://raw.githubusercontent.com/techboyz/techboyz-master-repo/master/Wizard/pic.jpg"
 description="Techboyz Wizard"
